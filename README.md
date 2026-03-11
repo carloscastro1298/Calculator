@@ -30,16 +30,16 @@ Conditional statements (if, elif, else)
 
 ## EXAMPLE
 Input:
-Copiar código
 
 Enter first number: 5
 Enter second number: 3
+
 Select operation:
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
+
 Output:
-Copiar código
 
 ## Result: 8
