@@ -29,7 +29,7 @@ Conditional statements (if, elif, else)
 
 
 ## EXAMPLE
-Input:
+###Input:
 
 Enter first number: 5
 Enter second number: 3
@@ -40,6 +40,6 @@ Select operation:
 3. Multiplication
 4. Division
 
-Output:
+###Output:
 
 ## Result: 8
