@@ -1,5 +1,6 @@
 # CALCULATOR
-Calculator in Python
+Calculator in Python by: Carlos Alberto Castro Martinez
+Clan: 8 - Cohorte 5
 
 ## DESCRIPTION
 This project is a simple calculator created with Python.
