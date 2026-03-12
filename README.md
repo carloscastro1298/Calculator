@@ -42,6 +42,6 @@ Select operation:
 3. Multiplication
 4. Division
 
-Output:
+Output: 1
 
 ## Result: 8
