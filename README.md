@@ -1,5 +1,6 @@
 # CALCULATOR
-Calculator in Python by: Carlos Alberto Castro Martinez
+Calculator in Python 
+By: Carlos Alberto Castro Martinez
 Clan: 8 - Cohorte 5
 
 ## DESCRIPTION
